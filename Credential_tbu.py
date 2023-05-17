@@ -1,0 +1,23 @@
+Credential={
+    'OpenChargemap':{
+        'endpoint':'https://api.openchargemap.io/v3/poi/?',
+        'key':''
+    },
+    'googlemap':{
+        'endpoint':'',
+        'key':''
+    },
+    'TomTom':{
+        'endpoint':'https://api.tomtom.com/routing/1/calculateLongDistanceEVRoute/',
+        'endpoint_iso':'https://api.tomtom.com/routing/1/calculateReachableRange/',
+        'key':''
+    },
+    'Iternio':{
+        'endpoint':'https://api.iternio.com/1/plan?',
+        'key':'',
+    },
+    'HERE':{
+        'endpoint':'https://router.hereapi.com/v8/routes?',
+        'key':''
+    },
+}
